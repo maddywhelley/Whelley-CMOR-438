@@ -38,3 +38,10 @@ coverage.xml
 .idea/
 .DS_store
 Thumbs.db
+
+# Generated images and figures
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
