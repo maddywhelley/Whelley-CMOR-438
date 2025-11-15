@@ -9,4 +9,5 @@ This section of the repository implements and visualizes several supervised lear
 - **K Nearest Neighbors**
 - **Linear Regression**
 - **Gradient Descent**
-update
+- **Multilayer Perceptron**
+update--link to other files
