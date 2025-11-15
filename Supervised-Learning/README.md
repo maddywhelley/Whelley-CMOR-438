@@ -6,4 +6,7 @@ This section of the repository implements and visualizes several supervised lear
 
 ## Algorithms Included 
 - **Perceptron**
+- **K Nearest Neighbors**
+- **Linear Regression**
+- **Gradient Descent**
 update
