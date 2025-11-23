@@ -6,4 +6,8 @@ This section of the repository implements and visualizes several supervised lear
 
 ## Algorithms Included 
 - **Perceptron**
-update
+- **K Nearest Neighbors**
+- **Linear Regression**
+- **Gradient Descent**
+- **Multilayer Perceptron**
+update--link to other files
