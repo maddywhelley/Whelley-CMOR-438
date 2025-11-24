@@ -31,7 +31,7 @@ class GradientDescentRegressor:
     def fit(self, X: np.ndarray, y: np.ndarray):
         """
         Fits the linear model using batch gradient descent.
-
+        
         Parameters
         
         X (np.ndarray) : 

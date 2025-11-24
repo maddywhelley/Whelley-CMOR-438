@@ -1,1 +1,2 @@
 from .gradient_descent import GradientDescentRegressor
+from .multilayer_perceptron import MLP
